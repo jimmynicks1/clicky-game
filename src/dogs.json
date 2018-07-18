@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "australianshepherd.jpg"
+    },
+    {
+      "id": 2,
+      "image": "beagle.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "boxer.jpg"
+    },
+    {
+      "id": 4,
+      "image": "bulldog.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "cockerspaniel.jpg"
+    },
+    {
+      "id": 6,
+      "image": "germanshepherd.jpg"
+    },
+    {
+      "id": 7,
+      "image": "goldenretriever.jpg"
+    },
+    {
+      "id": 8,
+      "image": "greatdane.jpg"
+    },
+    {
+      "id": 9,
+      "image": "labretreiver.jpg"
+    },
+    {
+      "id": 10,
+      "image": "poodle.jpg"
+    },
+    {
+      "id": 11,
+      "image": "SiberianHusky.jpg"
+    },
+    {
+      "id": 12,
+      "image": "yorki.jpg"
+    }
+  ]
+  
